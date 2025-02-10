@@ -1,8 +1,11 @@
 # 🛒 E-Commerce Store
 This project is a modern e-store for selling electronic products such as computers, smartphones, and technical accessories. It was developed using Node.js for the Backend and React.js with TypeScript for the Frontend, with support for electronic payment and shopping cart management.
 
-Youtube : 
+
+Youtube : https://youtu.be/wTZVBRudUc4
+
 Date : 15 / 12 / 2024
+
 
 ## 🔹 Key Features
    
@@ -37,4 +40,7 @@ User Authentication: JWT Authentication
 
 
 📌 Note: The Admin Panel has not been created yet. It will be developed later to provide a comprehensive management interface for data and users.
+
+
+![Image](https://github.com/user-attachments/assets/9686b8e3-4896-49d4-9f61-2988ef6f22f0)
 
