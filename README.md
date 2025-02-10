@@ -4,7 +4,7 @@ This project is a modern e-store for selling electronic products such as compute
 Youtube : 
 Date : 15 / 12 / 2024
 
-1. Key Features
+## 1. Key Features
    
 ✅ Product Display: A list of electronic products with details such as price, images, and specifications.
 
@@ -21,7 +21,7 @@ Date : 15 / 12 / 2024
 ✅ Admin Dashboard: Manage products, orders, and users.
 
 
-2. Technologies Used
+## 2. Technologies Used
  
 Backend: Node.js with Express.js
 
