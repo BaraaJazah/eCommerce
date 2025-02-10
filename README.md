@@ -4,7 +4,7 @@ This project is a modern e-store for selling electronic products such as compute
 Youtube : 
 Date : 15 / 12 / 2024
 
-## 1. Key Features
+## 🔹 Key Features
    
 ✅ Product Display: A list of electronic products with details such as price, images, and specifications.
 
@@ -21,7 +21,7 @@ Date : 15 / 12 / 2024
 ✅ Admin Dashboard: Manage products, orders, and users.
 
 
-## 2. Technologies Used
+## 🔧 Technologies Used
  
 Backend: Node.js with Express.js
 
@@ -34,3 +34,7 @@ Payment Gateway: Stripe
 State Management: Redux Toolkit
 
 User Authentication: JWT Authentication
+
+
+📌 Note: The Admin Panel has not been created yet. It will be developed later to provide a comprehensive management interface for data and users.
+
