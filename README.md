@@ -2,9 +2,9 @@
 This project is a modern e-store for selling electronic products such as computers, smartphones, and technical accessories. It was developed using Node.js for the Backend and React.js with TypeScript for the Frontend, with support for electronic payment and shopping cart management.
 
 
-Youtube : https://youtu.be/wTZVBRudUc4
+▶️ Youtube : https://youtu.be/dsck7Yfyzyk
 
-Date : 15 / 12 / 2024
+📅 Date : 15 / 12 / 2024
 
 
 ## 🔹 Key Features
